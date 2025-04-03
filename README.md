@@ -1,6 +1,6 @@
 # CubeCell LoRa – Emisor y Receptor
 
-Este proyecto demuestra cómo comunicar dos placas **CubeCell HTCC-AB02** mediante **LoRa**, con visualización en una pantalla tanto para el **emisor** como para el **receptor**.
+Este proyecto demuestra cómo comunicar dos placas **CubeCell HTCC-AB02** mediante **LoRa**, con visualización en su pantalla tanto para el **emisor** como para el **receptor**.
 
 ## Requisitos
 
