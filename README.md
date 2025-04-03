@@ -31,4 +31,4 @@ Este proyecto demuestra cómo comunicar dos placas **CubeCell HTCC-AB02** median
   - RSSI (potencia de la señal)
   - Contador de paquetes recibidos
  
-## Para más detalles sobre la configuración consulta la documentación.
+### Para más detalles sobre la configuración consulta la documentación.
