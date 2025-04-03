@@ -4,7 +4,7 @@ Este proyecto demuestra cómo comunicar dos placas **CubeCell HTCC-AB02** median
 
 ## Requisitos
 
-- 2 placas Heltec **CubeCell Board Plus**
+- 2 placas Heltec **CubeCell HTCC-AB02**
 - 2 antenas LoRa (una por placa)
 - Arduino IDE
 - Pantalla SH1107 conectada a cada placa (I2C)
